@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Hello Laravel! - by ZX</div>
+                <div>你好啊!</div>
             </div>
         </div>
     </body>
